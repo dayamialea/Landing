@@ -51,6 +51,7 @@ p {
   color: #fff;
   text-transform: uppercase;
   text-decoration: none;
+  box-shadow: 2px 4px 7px #222322;
 }
 
 .button_di-buffala:hover {
